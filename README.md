@@ -2,7 +2,7 @@
 
 <!--
 **tuladhar07/tuladhar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Snake gif](https://github.com/tuladhar07/tuladhar07/blob/dd980b110835d57c24ca6e1617ded99adc7fbad4/output/github-contribution-grid-snake.gif0
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
