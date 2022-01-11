@@ -1,8 +1,11 @@
 ### Hi there 👋
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=tuladhar07&hide=issues,contribs&count_private=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+
 ### Here are my contributions:
 ![Snake gif](https://github.com/tuladhar07/tuladhar07/blob/dd980b110835d57c24ca6e1617ded99adc7fbad4/output/github-contribution-grid-snake.gif)
 
-
+</a?
 <!--
 **tuladhar07/tuladhar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
