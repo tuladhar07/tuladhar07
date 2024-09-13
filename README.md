@@ -66,7 +66,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tuladhar07/tuladhar07/output/snake.svg" alt="Snake animation" />
+### Here are my contributions:
+![Snake gif](https://github.com/tuladhar07/tuladhar07/blob/dd980b110835d57c24ca6e1617ded99adc7fbad4/output/github-contribution-grid-snake.gif)
 
 ###
 
@@ -76,5 +77,4 @@
 
 ###
 
-### Here are my contributions:
-![Snake gif](https://github.com/tuladhar07/tuladhar07/blob/dd980b110835d57c24ca6e1617ded99adc7fbad4/output/github-contribution-grid-snake.gif)
+
